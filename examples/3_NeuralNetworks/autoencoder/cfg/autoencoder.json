@@ -1,0 +1,13 @@
+{
+        "width": 28,
+        "height": 28,
+        "learningrate": 0.01,
+        "batchsize": 256,
+        "maxepoch": 30000,
+        "hidden1num": 256,
+        "hidden2num": 128,
+        "optimizer": "default",
+        "sampledir": "./sample/",
+        "trainpath": "./data/train.txt",
+        "modelpath": "./model/autoencoder.ckpt"
+}
